@@ -1,0 +1,9 @@
+Prérequis: 	- Ne pas utiliser Internet Explorer
+		- Utiliser un serveur local (NodeJS pour cette exemple en l'occurrence)
+
+1. Copier le dossier "devinrodez" à la racine de NodeJS
+2. Entrer dans le terminal et accéder à ce dossier 
+3. Entrer la commande suivante pour démarrer le serveur local
+	=> browser-sync start --server --files "**/*"
+4. Dans votre navigateur entrer l'adresse suivante : 
+	=> localhost3000/test.html 
